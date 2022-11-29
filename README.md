@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ![Jisoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y-Jean&show_icons=true&theme=dark)
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y-Jean&langs_count=8&layout=compact" alt="Top Languages" height="150px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y-Jean&langs_count=8&layout=compact" alt="Top Languages"/>
 </div>
